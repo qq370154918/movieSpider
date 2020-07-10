@@ -95,7 +95,7 @@ ITEM_PIPELINES = {
 # 'HOST' : '47.107.186.205',
 mysql_host = 'localhost'
 mysql_db = 'dev04'
-mysql_passwd = '123456'
-mysql_user = 'root'
+mysql_passwd = '********'
+mysql_user = '*****'
 mysql_port = 3306
 table_name = 'movie_top250'
